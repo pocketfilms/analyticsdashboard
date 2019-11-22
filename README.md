@@ -1,1 +1,1 @@
-mg serve
+ng serve
